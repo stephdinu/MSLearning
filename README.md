@@ -1,2 +1,2 @@
-# MSLearning
-Microsoft Learning Projects to practice my Python skills and learn new tools
+# Microsoft Learning
+Microsoft Learning projects to practice my Python skills and learn new tools
